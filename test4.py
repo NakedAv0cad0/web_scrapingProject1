@@ -1,10 +1,8 @@
-# bruh
 import requests
 from bs4 import BeautifulSoup
 import csv
 from itertools import zip_longest
 from time import sleep
-from my_functions import int_verify
 
 # take unfamiliar skills from User
 print("what kind of skills that you do not wanna work with?\n(each skill type it in different line and"
